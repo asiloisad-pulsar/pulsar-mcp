@@ -2,6 +2,9 @@
 
 Model Context Protocol server, that provides Pulsar editor tools to AI assistants.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [lumine-mcp](https://github.com/lumine-code/lumine-mcp).
+
 ## Features
 
 - **MCP protocol**: Version 2025-11-25 with tool annotations support.
